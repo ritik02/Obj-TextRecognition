@@ -1,0 +1,12 @@
+127.0.0.1 - - [03/Aug/2016:21:35:20 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [03/Aug/2016:21:35:24 +0530] "GET /MyServletProject/ HTTP/1.1" 404 985
+0:0:0:0:0:0:0:1 - - [03/Aug/2016:22:07:03 +0530] "GET /MyServletProject/ HTTP/1.1" 404 985
+192.168.43.1 - - [03/Aug/2016:22:15:57 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 500 2293
+192.168.43.1 - - [03/Aug/2016:22:17:31 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 500 1732
+127.0.0.1 - - [03/Aug/2016:23:00:31 +0530] "GET / HTTP/1.1" 200 11418
+0:0:0:0:0:0:0:1 - - [03/Aug/2016:23:00:32 +0530] "GET /MyServletProject/ HTTP/1.1" 404 985
+192.168.43.1 - - [03/Aug/2016:23:04:50 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 200 49
+192.168.43.1 - - [03/Aug/2016:23:07:58 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 200 47
+192.168.43.1 - - [03/Aug/2016:23:08:12 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 200 49
+192.168.43.1 - - [03/Aug/2016:23:32:15 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 200 49
+192.168.43.1 - - [03/Aug/2016:23:38:55 +0530] "POST /MyServletProject/DoubleMeServlet HTTP/1.1" 200 49

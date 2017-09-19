@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.javaApplet">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/UCSDUnfoldingMaps/src/HelloUCSDWorld.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<intAttribute key="org.eclipse.jdt.launching.APPLET_HEIGHT" value="200"/>
+<stringAttribute key="org.eclipse.jdt.launching.APPLET_NAME" value=""/>
+<mapAttribute key="org.eclipse.jdt.launching.APPLET_PARAMETERS"/>
+<intAttribute key="org.eclipse.jdt.launching.APPLET_WIDTH" value="200"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="HelloUCSDWorld"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="UCSDUnfoldingMaps"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Dhttps.proxyPort=3128&#13;&#10;-Dhttps.proxyHost=192.168.1.107&#13;&#10;-Dhttp.proxyPort=3128&#13;&#10;-Dhttp.proxyHost=192.168.1.107"/>
+</launchConfiguration>
